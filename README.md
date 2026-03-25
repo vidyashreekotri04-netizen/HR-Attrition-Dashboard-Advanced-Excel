@@ -62,7 +62,7 @@ Dashboard Features
 
 •	KPI Cards:
 
-o	Total Employees
+ o	Total Employees
 
 o	Attrition Count
 
